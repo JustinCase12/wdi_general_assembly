@@ -1,0 +1,28 @@
+body {
+  background: #333;
+}
+
+div {
+	  background: #c0dec5;
+  margin: 4em;
+  padding-top: 2em;
+  padding-right: 3em;
+  padding-left: 3em;
+}
+
+p {
+	font-family: georgia, serif;
+	font-size: 20px;
+	line-height: 1.4em;
+}
+
+span {
+  font-variant: small-caps; 
+  font-family: 'Tahoma' sans-serif;
+  letter-spacing: .25em;
+  padding: .2em;
+  background: rgba(100, 150, 150, .5);
+}
+.right {
+  text-align: right;
+}

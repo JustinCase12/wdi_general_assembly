@@ -1,0 +1,14 @@
+.card {
+    width: 150px;
+    height: 200px;
+    border: black solid 1px;
+    background-color: yellow;
+}
+
+h1 {
+    color: rgb(2, 132,130);
+}
+
+h2 {
+    color: #ffd700;
+}
